@@ -1,0 +1,1 @@
+cargo:rustc-env=MIME_TYPES_GENERATED_PATH=/home/icarus/Desktop/Coding/ActivePool/Research/ISFCR/Project/stealthware-zk/units/transit/target/debug/build/mime_guess-94ab6d895e5cbdb5/out/mime_types_generated.rs
